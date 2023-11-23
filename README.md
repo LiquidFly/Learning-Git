@@ -7,3 +7,4 @@ Another Commit
 ## EDUCATION EXPERIENCE
 - Btech Chitkara University
 - In 2 Year
+- Hostller
