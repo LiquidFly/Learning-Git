@@ -8,3 +8,6 @@ Another Commit
 - Btech Chitkara University
 - In 2 Year
 - Hostller
+### SKILLS
+- HTML,CSS,JS
+- REACT JS
